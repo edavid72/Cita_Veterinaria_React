@@ -2,7 +2,7 @@
   "name": "citas1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://edavid72.github.io/AdminCitas_React",
+  "homepage": "https://edavid72.github.io/Cita_Veterinaria_React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
